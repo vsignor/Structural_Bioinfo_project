@@ -1,1 +1,5 @@
-
+datasets/
+*.zip
+*.h5
+*.joblib
+*.pkl
